@@ -1,11 +1,11 @@
 ---
-slug: /unshared-projects
+slug: /shared-projects
 hide_table_of_contents: true
 ---
 
-# Unshared projects are no longer visible
+# shared projects are no longer visible
 
-Unshared projects can no longer be opened on TurboWarp, forkphorus, and other third-party sites due to changes to the Scratch API.
+shared projects can no longer be opened on TurboWarp, forkphorus, and other third-party sites due to changes to the Scratch API.
 
 This page answers most of the questions people have and lists some workarounds. Please read it in full before discussing these changes with other people to avoid misinformation.
 
@@ -17,7 +17,7 @@ ANY website other than scratch.mit.edu that asks for your Scratch password is a 
 
 We want to be clear: These changes were made by the Scratch Team. TurboWarp is a third-party website that is not affiliated with the Scratch Team; we did not make these changes.
 
-Downloading a project from the Scratch API now requires a "project token" that, for unshared projects, can only be accessed by the owner of the project. Even if you're signed in to your Scratch account in the same browser, TurboWarp can't access it. These tokens are temporary and expire after a few minutes, so the owner can't just provide a token once to keep it visible forever.
+Downloading a project from the Scratch API now requires a "project token" that, for shared projects, can only be accessed by the owner of the project. Even if you're signed in to your Scratch account in the same browser, TurboWarp can't access it. These tokens are temporary and expire after a few minutes, so the owner can't just provide a token once to keep it visible forever.
 
 Unshared projects were always something that just happened to work and weren't the intended main use of TurboWarp. Things like the compiler and addons have always been the focus and will continue to work for shared projects, projects loaded from files, and the desktop app.
 
